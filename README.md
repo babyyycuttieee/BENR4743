@@ -1,9 +1,11 @@
 # Mobile Price Classification
 
-**Overview**
+**Overview**:
+
 This project focuses on building classification models to predict the price range (0-3) of mobile phones based on their features in the Mobile Price dataset.
 
-**Dataset**
+**Dataset**:
+
 The dataset contains details of 2000 mobile phones with various features like battery power, RAM, screen size, etc. It has a target variable 'Price_Range' which indicates the price range of the phone.
 
 The 'Price_Range' is a numeric categorical variable with 4 classes:
@@ -13,7 +15,8 @@ The 'Price_Range' is a numeric categorical variable with 4 classes:
 - 2: Mid-range price, good feature set
 - 3: High end, premium models
 
-**Methods**
+**Methods**:
+
 The following classification models were trained and evaluated:
 
 - Decision Tree
