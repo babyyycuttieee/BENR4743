@@ -1,5 +1,7 @@
 # Mobile Price Predection
 
+A GUI-Based Approach for Dataset Analysis and Predictive Modeling
+
 **Overview**:
 
 This project focuses on building classification models to predict the price range (0-3) of mobile phones based on their features in the Mobile Price dataset.
